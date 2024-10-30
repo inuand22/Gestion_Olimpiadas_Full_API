@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lucia\\OneDrive\\Escritorio\\Obligatorio 2 - 29-10- 2200hs\\Front\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|c:\\users\\lucia\\onedrive\\escritorio\\obligatorio 2 - 29-10- 2200hs\\front\\presentacion\\controllers\\disciplinacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\controllers\\disciplinacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|c:\\users\\lucia\\onedrive\\escritorio\\obligatorio 2 - 29-10- 2200hs\\front\\presentacion\\views\\disciplina\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\views\\disciplina\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|c:\\users\\lucia\\onedrive\\escritorio\\obligatorio 2 - 29-10- 2200hs\\front\\presentacion\\views\\disciplina\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\views\\disciplina\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|c:\\users\\lucia\\onedrive\\escritorio\\obligatorio 2 - 29-10- 2200hs\\front\\presentacion\\views\\disciplina\\atletasxdisciplina.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\views\\disciplina\\atletasxdisciplina.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|c:\\users\\lucia\\onedrive\\escritorio\\obligatorio 2 - 29-10- 2200hs\\front\\presentacion\\views\\disciplina\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\views\\disciplina\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|c:\\users\\lucia\\onedrive\\escritorio\\obligatorio 2 - 29-10- 2200hs\\front\\presentacion\\views\\disciplina\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\views\\disciplina\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|c:\\users\\lucia\\onedrive\\escritorio\\obligatorio 2 - 29-10- 2200hs\\front\\presentacion\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|c:\\users\\lucia\\onedrive\\escritorio\\obligatorio 2 - 29-10- 2200hs\\front\\presentacion\\controllers\\atletacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\controllers\\atletacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|c:\\users\\lucia\\onedrive\\escritorio\\obligatorio 2 - 29-10- 2200hs\\front\\presentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\lucia\\OneDrive\\Escritorio\\Obligatorio 2 - 29-10- 2200hs\\Front\\Presentacion\\Views\\Disciplina\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Presentacion\\Views\\Disciplina\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\lucia\\OneDrive\\Escritorio\\Obligatorio 2 - 29-10- 2200hs\\Front\\Presentacion\\Views\\Disciplina\\Delete.cshtml*",
+              "RelativeToolTip": "Presentacion\\Views\\Disciplina\\Delete.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T21:30:43.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\lucia\\OneDrive\\Escritorio\\Obligatorio 2 - 29-10- 2200hs\\Front\\Presentacion\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Presentacion\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\lucia\\OneDrive\\Escritorio\\Obligatorio 2 - 29-10- 2200hs\\Front\\Presentacion\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Presentacion\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T20:52:28.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\lucia\\OneDrive\\Escritorio\\Obligatorio 2 - 29-10- 2200hs\\Front\\Presentacion\\Views\\Disciplina\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Presentacion\\Views\\Disciplina\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\lucia\\OneDrive\\Escritorio\\Obligatorio 2 - 29-10- 2200hs\\Front\\Presentacion\\Views\\Disciplina\\Edit.cshtml",
+              "RelativeToolTip": "Presentacion\\Views\\Disciplina\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T20:42:02.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\lucia\\OneDrive\\Escritorio\\Obligatorio 2 - 29-10- 2200hs\\Front\\Presentacion\\Views\\Disciplina\\Create.cshtml",
+              "RelativeDocumentMoniker": "Presentacion\\Views\\Disciplina\\Create.cshtml",
+              "ToolTip": "C:\\Users\\lucia\\OneDrive\\Escritorio\\Obligatorio 2 - 29-10- 2200hs\\Front\\Presentacion\\Views\\Disciplina\\Create.cshtml",
+              "RelativeToolTip": "Presentacion\\Views\\Disciplina\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T20:15:42.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AtletasXDisciplina.cshtml",
+              "DocumentMoniker": "C:\\Users\\lucia\\OneDrive\\Escritorio\\Obligatorio 2 - 29-10- 2200hs\\Front\\Presentacion\\Views\\Disciplina\\AtletasXDisciplina.cshtml",
+              "RelativeDocumentMoniker": "Presentacion\\Views\\Disciplina\\AtletasXDisciplina.cshtml",
+              "ToolTip": "C:\\Users\\lucia\\OneDrive\\Escritorio\\Obligatorio 2 - 29-10- 2200hs\\Front\\Presentacion\\Views\\Disciplina\\AtletasXDisciplina.cshtml",
+              "RelativeToolTip": "Presentacion\\Views\\Disciplina\\AtletasXDisciplina.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T23:17:29.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lucia\\OneDrive\\Escritorio\\Obligatorio 2 - 29-10- 2200hs\\Front\\Presentacion\\Views\\Disciplina\\Index.cshtml",
+              "RelativeDocumentMoniker": "Presentacion\\Views\\Disciplina\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lucia\\OneDrive\\Escritorio\\Obligatorio 2 - 29-10- 2200hs\\Front\\Presentacion\\Views\\Disciplina\\Index.cshtml",
+              "RelativeToolTip": "Presentacion\\Views\\Disciplina\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T23:11:23.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DisciplinaController.cs",
+              "DocumentMoniker": "C:\\Users\\lucia\\OneDrive\\Escritorio\\Obligatorio 2 - 29-10- 2200hs\\Front\\Presentacion\\Controllers\\DisciplinaController.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Controllers\\DisciplinaController.cs",
+              "ToolTip": "C:\\Users\\lucia\\OneDrive\\Escritorio\\Obligatorio 2 - 29-10- 2200hs\\Front\\Presentacion\\Controllers\\DisciplinaController.cs*",
+              "RelativeToolTip": "Presentacion\\Controllers\\DisciplinaController.cs*",
+              "ViewState": "AgIAAPAAAAAAAAAAAAAuwOEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T23:04:35.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lucia\\OneDrive\\Escritorio\\Obligatorio 2 - 29-10- 2200hs\\Front\\Presentacion\\Program.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Program.cs",
+              "ToolTip": "C:\\Users\\lucia\\OneDrive\\Escritorio\\Obligatorio 2 - 29-10- 2200hs\\Front\\Presentacion\\Program.cs",
+              "RelativeToolTip": "Presentacion\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T22:22:36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AtletaController.cs",
+              "DocumentMoniker": "C:\\Users\\lucia\\OneDrive\\Escritorio\\Obligatorio 2 - 29-10- 2200hs\\Front\\Presentacion\\Controllers\\AtletaController.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Controllers\\AtletaController.cs",
+              "ToolTip": "C:\\Users\\lucia\\OneDrive\\Escritorio\\Obligatorio 2 - 29-10- 2200hs\\Front\\Presentacion\\Controllers\\AtletaController.cs",
+              "RelativeToolTip": "Presentacion\\Controllers\\AtletaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T21:49:21.375Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
