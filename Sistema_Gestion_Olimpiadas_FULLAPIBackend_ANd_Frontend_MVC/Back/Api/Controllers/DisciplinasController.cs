@@ -64,6 +64,38 @@ namespace WebApi.Controllers
             }
         }
 
+        // GET api/<DisciplinasController>/nombre/{nombre}
+        [HttpGet("/nombre/{nombre}", Name = "FindXName")]
+        [ProducesResponseType(StatusCodes.Status200OK)]
+        [ProducesResponseType(StatusCodes.Status400BadRequest)]
+        [ProducesResponseType(StatusCodes.Status404NotFound)]
+        [ProducesResponseType(StatusCodes.Status500InternalServerError)]
+        public IActionResult Get(string nombre)
+        {
+            try
+            {
+                if (string.IsNullOrWhiteSpace(nombre))
+                {
+                    return BadRequest("El nombre de la disciplina no puede estar vacío o ser nulo.");
+                }
+
+                ListadoDisciplinaDTO disciplinas = CUListadoDisciplinas.GetDisciplinasPorNombre(nombre);
+
+
+                if (disciplinas == null)
+                {
+                    return NotFound("No se encontraron disciplinas con el nombre especificado.");
+                }
+
+                return Ok(disciplinas);
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, "Ocurrió un error interno en el servidor.");
+            }
+        }
+
+
         // POST api/<DisciplinasController>
         [HttpPost]
         [ProducesResponseType(StatusCodes.Status200OK)]

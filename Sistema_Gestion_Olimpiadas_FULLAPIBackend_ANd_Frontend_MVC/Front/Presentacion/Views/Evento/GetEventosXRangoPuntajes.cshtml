@@ -1,0 +1,63 @@
+﻿@model IEnumerable<DTO.ListadoEventoAtletaDTO>
+
+
+<h1>Eventos Por Rango Puntaje</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IdAtleta)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NombreAtleta)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IdEvento)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NombreEvento)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PuntajeAtleta)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FechaEvento)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IdAtleta)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.NombreAtleta)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IdEvento)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.NombreEvento)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PuntajeAtleta)
+                </td>
+                <td>
+                    @item.FechaEvento.ToShortDateString()
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="FiltrosEventos">Volver a la lista</a>

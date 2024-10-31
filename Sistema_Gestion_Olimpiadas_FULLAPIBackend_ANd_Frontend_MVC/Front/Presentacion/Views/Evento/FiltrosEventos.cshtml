@@ -1,0 +1,94 @@
+﻿@model DTO.ListadoEventosDTO
+
+@{
+    ViewData["Title"] = "GetEventosXId";
+}
+
+<h1>Filtros de Eventos</h1>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="GetEventosXIdDisciplina" method="get">
+            <div class="form-group">
+                <label asp-for="IdEvento" name="id" class="control-label">Buscar Evento Por Id De Disciplina</label>
+                <input asp-for="IdEvento" name="id" class="form-control" />
+                <span asp-validation-for="IdEvento" class="text-danger"></span>
+            </div>
+            <br />
+            <div class="form-group">
+                <input type="submit" value="Buscar" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="GetEventosXNombre" method="get">
+            <div class="form-group">
+                <label asp-for="NombreEvento" name="nombre" class="control-label">Buscar Evento por Nombre</label>
+                <input asp-for="NombreEvento" name="nombre" class="form-control" />
+                <span asp-validation-for="NombreEvento" class="text-danger"></span>
+            </div>
+            <br />
+            <div class="form-group">
+                <input type="submit" value="Buscar" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="GetEventosXRangoFechas" method="get">
+            <div class="form-group">
+                <label asp-for="FechaInicio" name="fechaIni" class="control-label">Buscar Evento Por Fecha Inicio</label>
+                <input asp-for="FechaInicio" type="date" name="fechaIni" class="form-control" />
+                <span asp-validation-for="FechaInicio" class="text-danger"></span>
+            </div>
+            <br />
+            <div class="form-group">
+                <label asp-for="FechaFinal" name="fechaFin" class="control-label">Buscar Evento Por Fecha Final</label>
+                <input asp-for="FechaFinal" type="date" name="fechaFin" class="form-control" />
+                <span asp-validation-for="FechaFinal" class="text-danger"></span>
+            </div>
+            <br />
+            <div class="form-group">
+                <input type="submit" value="Buscar" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+<hr />
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="GetEventosXRangoPuntajes" method="get">
+            <div class="form-group">
+                <label asp-for="Puntaje" name="ini" class="control-label">Buscar Evento Por Puntaje Mínimo</label>
+                <input asp-for="Puntaje" name="ini" class="form-control" />
+                <span asp-validation-for="Puntaje" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Puntaje" name="max" class="control-label">Buscar Evento Por Puntaje Máximo</label>
+                <input asp-for="Puntaje" name="max" class="form-control" />
+                <span asp-validation-for="Puntaje" class="text-danger"></span>
+            </div>
+            <br />
+            <div class="form-group">
+                <input type="submit" value="Buscar" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+<hr />
+
+<div>
+    <a asp-action="Index">Volver a la lista</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

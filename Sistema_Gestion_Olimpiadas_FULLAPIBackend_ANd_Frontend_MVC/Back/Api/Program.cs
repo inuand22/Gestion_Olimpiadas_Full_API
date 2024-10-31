@@ -31,6 +31,11 @@ namespace Api
             builder.Services.AddScoped<IRepositorioEventoAtleta, RepositorioEventoAtletaBD>();
             builder.Services.AddScoped<IListadoEventosAtletas, ListadoEventoAtletas>();
 
+            //EVENTO
+            builder.Services.AddScoped<IRepositorioEvento, RepositorioEventoBD>();
+            builder.Services.AddScoped<IListadoEventos, ListadoEventos>();
+
+
             // CONF DE LA BASE DE DATOS
             string strCon = builder.Configuration.GetConnectionString("MiConexion");
             builder.Services.AddDbContext<OlimpiadasContext>(options => options.UseSqlServer(strCon));

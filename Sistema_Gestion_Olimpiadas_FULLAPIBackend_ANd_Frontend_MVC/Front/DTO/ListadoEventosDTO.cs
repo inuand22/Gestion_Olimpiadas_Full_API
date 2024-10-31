@@ -5,7 +5,7 @@ namespace DTO
     public class ListadoEventosDTO
     {
         [Display(Name = "Id Evento")]
-        public int IdEvento { get; set; } 
+        public int IdEvento { get; set; }
 
         [Display(Name = "Nombre Evento")]
         public string NombreEvento { get; set; }
@@ -18,5 +18,7 @@ namespace DTO
 
         [Display(Name = "Fecha Final")]
         public DateTime FechaFinal { get; set; }
+
+        public decimal Puntaje { get; set; }
     }
 }

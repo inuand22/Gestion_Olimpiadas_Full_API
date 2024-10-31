@@ -1054,3 +1054,25 @@ C:\Users\lucia\OneDrive\Escritorio\Obligatorio 2 - 29-10- 2200hs\Front\DTO\obj\D
 C:\Users\lucia\OneDrive\Escritorio\Obligatorio 2 - 29-10- 2200hs\Front\DTO\obj\Debug\net8.0\refint\DTO.dll
 C:\Users\lucia\OneDrive\Escritorio\Obligatorio 2 - 29-10- 2200hs\Front\DTO\obj\Debug\net8.0\DTO.pdb
 C:\Users\lucia\OneDrive\Escritorio\Obligatorio 2 - 29-10- 2200hs\Front\DTO\obj\Debug\net8.0\ref\DTO.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio 2\Obligatorio 2 - 30-10- 1930hs -\Front\DTO\bin\Debug\net8.0\DTO.deps.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio 2\Obligatorio 2 - 30-10- 1930hs -\Front\DTO\bin\Debug\net8.0\DTO.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio 2\Obligatorio 2 - 30-10- 1930hs -\Front\DTO\bin\Debug\net8.0\DTO.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio 2\Obligatorio 2 - 30-10- 1930hs -\Front\DTO\obj\Debug\net8.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio 2\Obligatorio 2 - 30-10- 1930hs -\Front\DTO\obj\Debug\net8.0\DTO.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio 2\Obligatorio 2 - 30-10- 1930hs -\Front\DTO\obj\Debug\net8.0\DTO.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio 2\Obligatorio 2 - 30-10- 1930hs -\Front\DTO\obj\Debug\net8.0\DTO.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio 2\Obligatorio 2 - 30-10- 1930hs -\Front\DTO\obj\Debug\net8.0\DTO.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio 2\Obligatorio 2 - 30-10- 1930hs -\Front\DTO\obj\Debug\net8.0\refint\DTO.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio 2\Obligatorio 2 - 30-10- 1930hs -\Front\DTO\obj\Debug\net8.0\DTO.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio 2\Obligatorio 2 - 30-10- 1930hs -\Front\DTO\obj\Debug\net8.0\ref\DTO.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio 2\Obligatorio 2 - 31-10\Front\DTO\bin\Debug\net8.0\DTO.deps.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio 2\Obligatorio 2 - 31-10\Front\DTO\bin\Debug\net8.0\DTO.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio 2\Obligatorio 2 - 31-10\Front\DTO\bin\Debug\net8.0\DTO.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio 2\Obligatorio 2 - 31-10\Front\DTO\obj\Debug\net8.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio 2\Obligatorio 2 - 31-10\Front\DTO\obj\Debug\net8.0\DTO.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio 2\Obligatorio 2 - 31-10\Front\DTO\obj\Debug\net8.0\DTO.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio 2\Obligatorio 2 - 31-10\Front\DTO\obj\Debug\net8.0\DTO.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio 2\Obligatorio 2 - 31-10\Front\DTO\obj\Debug\net8.0\DTO.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio 2\Obligatorio 2 - 31-10\Front\DTO\obj\Debug\net8.0\refint\DTO.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio 2\Obligatorio 2 - 31-10\Front\DTO\obj\Debug\net8.0\DTO.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio 2\Obligatorio 2 - 31-10\Front\DTO\obj\Debug\net8.0\ref\DTO.dll

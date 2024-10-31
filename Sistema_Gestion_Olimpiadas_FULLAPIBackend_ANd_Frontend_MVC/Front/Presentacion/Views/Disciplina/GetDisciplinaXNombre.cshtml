@@ -1,0 +1,40 @@
+﻿@model DTO.ListadoDisciplinaDTO
+
+@{
+    ViewData["Title"] = "GetDisciplinaXNombre";
+}
+
+<h1>GetDisciplinaXNombre</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.IdDisciplina)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NombreDisciplina)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AnioDisciplina)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => Model.IdDisciplina)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => Model.NombreDisciplina)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => Model.AnioDisciplina)
+            </td>
+        </tr>
+    </tbody>
+</table>

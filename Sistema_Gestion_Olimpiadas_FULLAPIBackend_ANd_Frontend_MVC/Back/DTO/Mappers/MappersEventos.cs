@@ -10,7 +10,8 @@ namespace DTO.Mappers
             if (dto != null)
             {
                 NombreEvento nombreEvento = new NombreEvento(dto.NombreEvento);
-                Evento evento = new Evento(nombreEvento, dto.IdDisciplina, dto.FechaInicioEvento, dto.FechaFinalEvento, dto.IdsAtletas)
+                Evento evento = new Evento(nombreEvento, dto.IdDisciplina, 
+                    dto.FechaInicioEvento, dto.FechaFinalEvento, dto.IdsAtletas)
                 {
                     Id = dto.IdEvento
                 };

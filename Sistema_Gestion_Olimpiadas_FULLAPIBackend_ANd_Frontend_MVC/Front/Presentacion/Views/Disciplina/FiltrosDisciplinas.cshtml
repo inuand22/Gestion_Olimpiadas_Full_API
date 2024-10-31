@@ -1,0 +1,47 @@
+﻿@model DTO.ListadoDisciplinaDTO
+
+
+<h1>Filtros de Disciplinas</h1>
+<hr />
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Details" method="get">
+            <div class="form-group">
+                <label asp-for="IdDisciplina" name="id" class="control-label">Buscar Disciplina Por Id</label>
+                <input asp-for="IdDisciplina" name="id" class="form-control" />
+                <span asp-validation-for="IdDisciplina" class="text-danger"></span>
+            </div>
+            <br />
+            <div class="form-group">
+                <input type="submit" value="Buscar" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="GetDisciplinaXNombre" method="get">
+            <div class="form-group">
+                <label asp-for="NombreDisciplina" name="nombre" class="control-label">Buscar Disciplina por nombre</label>
+                <input asp-for="NombreDisciplina" name="nombre" class="form-control" />
+                <span asp-validation-for="NombreDisciplina" class="text-danger"></span>
+            </div>
+            <br />
+            <div class="form-group">
+                <input type="submit" value="Buscar" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Volver a la lista</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

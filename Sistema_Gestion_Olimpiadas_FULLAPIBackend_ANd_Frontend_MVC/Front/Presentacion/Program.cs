@@ -27,7 +27,7 @@ namespace Presentacion
 
             app.MapControllerRoute(
                 name: "default",
-                pattern: "{controller=Atleta}/{action=Index}/{id?}");
+                pattern: "{controller=Evento}/{action=FiltrosEventos}/{id?}");
 
             app.Run();
         }

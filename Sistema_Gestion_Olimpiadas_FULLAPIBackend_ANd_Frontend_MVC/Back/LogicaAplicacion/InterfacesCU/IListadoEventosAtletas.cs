@@ -12,5 +12,6 @@ namespace LogicaAplicacion.InterfacesCU
         IEnumerable<ListadoEventoAtletaDTO> GetAtletasPorEvento(int idEvento);
         IEnumerable<ListadoEventoAtletaDTO> GetEventosPorAtleta(int idAtleta);
         IEnumerable<ListadoEventoAtletaDTO> GetAll();
+        IEnumerable<ListadoEventoAtletaDTO> GetAllPorRangoPuntaje(decimal min, decimal max);
     }
 }

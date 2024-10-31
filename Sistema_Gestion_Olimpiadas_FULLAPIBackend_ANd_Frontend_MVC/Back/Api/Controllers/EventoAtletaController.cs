@@ -23,6 +23,15 @@ namespace Api.Controllers
             CUListadoEventoAtleta = cUListadoEventoAtleta;
         }
 
+        // GET: api/<EventoAtletaController>
+        [HttpGet]
+        [ProducesResponseType(StatusCodes.Status200OK)]
+        public IActionResult Get()
+        {
+            IEnumerable<ListadoEventoAtletaDTO> dto = CUListadoEventoAtleta.GetAll();
+            return Ok(dto);
+        }
+
         // GET api/<EventoAtletaController>/5
         [HttpGet("{id}")]
         [ProducesResponseType(StatusCodes.Status200OK)]
@@ -55,35 +64,43 @@ namespace Api.Controllers
             }
         }
 
-
-        // GET: api/<EventoAtletaController>
-        [HttpGet]
+        // GET api/EventoAtleta/rangoPuntaje/10,100
+        [HttpGet("rangoPuntaje/{min},{max}")]
         [ProducesResponseType(StatusCodes.Status200OK)]
-        public IActionResult Get()
+        [ProducesResponseType(StatusCodes.Status400BadRequest)]
+        [ProducesResponseType(StatusCodes.Status404NotFound)]
+        [ProducesResponseType(StatusCodes.Status500InternalServerError)]
+        public IActionResult Get(decimal min, decimal max)
         {
-            IEnumerable<ListadoEventoAtletaDTO> dto = CUListadoEventoAtleta.GetAll();
-            return Ok(dto);
-        }
 
-        //// POST api/<EventoAtletaController>
-        //[HttpPost]
-        //public IActionResult Post([FromBody] string value)
-        //{
-        //    return Ok();
-        //}
+            if (min < 0 || max < 0)
+            {
+                return BadRequest("El mínimo y máximo deben ser decimales positivos.");
+            }
 
-        //// PUT api/<EventoAtletaController>/5
-        //[HttpPut("{id}")]
-        //public IActionResult Put(int id, [FromBody] string value)
-        //{
-        //    return Ok();
-        //}
 
-        //// DELETE api/<EventoAtletaController>/5
-        //[HttpDelete("{id}")]
-        //public IActionResult Delete(int id)
-        //{
-        //    return Ok();
-        //}
+            if (min > max)
+            {
+                return BadRequest("El valor mínimo no puede ser mayor al valor máximo.");
+            }
+
+            try
+            {
+                IEnumerable<ListadoEventoAtletaDTO> eventos = CUListadoEventoAtleta.GetAllPorRangoPuntaje(min, max);
+
+                if (eventos is not null && eventos.Any())
+                {
+                    return Ok(eventos);
+                }
+                else
+                {
+                    return NotFound("No se encontraron eventos para el atleta en el rango especificado.");
+                }
+            }
+            catch (Exception)
+            {
+                return StatusCode(500, "Ocurrió un error al procesar la solicitud.");
+            }
+        }       
     }
 }

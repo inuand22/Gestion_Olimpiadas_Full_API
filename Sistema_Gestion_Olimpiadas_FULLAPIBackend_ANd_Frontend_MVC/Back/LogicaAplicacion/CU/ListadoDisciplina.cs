@@ -44,5 +44,10 @@ namespace LogicaAplicacion.CU
             }
             throw new ExcepcionesDisciplina("No se encontró Disciplina");
         }
+
+        public ListadoDisciplinaDTO GetDisciplinasPorNombre(string nombre)
+        {
+            return MappersDisciplina.FromDisciplina(Repositorio.FindByName(nombre));
+        }
     }
 }

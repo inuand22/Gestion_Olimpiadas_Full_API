@@ -1,0 +1,51 @@
+﻿@model IEnumerable<DTO.ListadoEventosDTO>
+
+<h1>Eventos Por Id Disciplina</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.IdEvento)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NombreEvento)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NombreDisciplina)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FechaInicio)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FechaFinal)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IdEvento)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.NombreEvento)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.NombreDisciplina)
+                </td>
+                <td>
+                    @item.FechaInicio.ToShortDateString()
+                </td>
+                <td>
+                    @item.FechaFinal.ToShortDateString()
+                </td>
+            </tr>
+        }
+
+    </tbody>
+</table>
+
+<a asp-action="FiltrosEventos">Volver a la lista</a>

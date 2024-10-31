@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucia\\OneDrive\\Escritorio\\Obligatorio 2 - 29-10- 2200hs\\Back\\ExcepcionesPropias\\ExcepcionesPropias.csproj": {}
+    "F:\\USUARIO\\Desktop\\ORT\\Programación III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Back\\ExcepcionesPropias\\ExcepcionesPropias.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucia\\OneDrive\\Escritorio\\Obligatorio 2 - 29-10- 2200hs\\Back\\ExcepcionesPropias\\ExcepcionesPropias.csproj": {
+    "F:\\USUARIO\\Desktop\\ORT\\Programación III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Back\\ExcepcionesPropias\\ExcepcionesPropias.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucia\\OneDrive\\Escritorio\\Obligatorio 2 - 29-10- 2200hs\\Back\\ExcepcionesPropias\\ExcepcionesPropias.csproj",
+        "projectUniqueName": "F:\\USUARIO\\Desktop\\ORT\\Programación III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Back\\ExcepcionesPropias\\ExcepcionesPropias.csproj",
         "projectName": "ExcepcionesPropias",
-        "projectPath": "C:\\Users\\lucia\\OneDrive\\Escritorio\\Obligatorio 2 - 29-10- 2200hs\\Back\\ExcepcionesPropias\\ExcepcionesPropias.csproj",
-        "packagesPath": "C:\\Users\\lucia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucia\\OneDrive\\Escritorio\\Obligatorio 2 - 29-10- 2200hs\\Back\\ExcepcionesPropias\\obj\\",
+        "projectPath": "F:\\USUARIO\\Desktop\\ORT\\Programación III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Back\\ExcepcionesPropias\\ExcepcionesPropias.csproj",
+        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
+        "outputPath": "F:\\USUARIO\\Desktop\\ORT\\Programación III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Back\\ExcepcionesPropias\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\lucia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -69,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

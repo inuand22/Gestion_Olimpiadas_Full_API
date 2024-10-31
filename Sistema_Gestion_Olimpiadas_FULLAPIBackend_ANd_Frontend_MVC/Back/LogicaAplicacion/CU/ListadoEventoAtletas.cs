@@ -13,6 +13,7 @@ namespace LogicaAplicacion.CU
     public class ListadoEventoAtletas : IListadoEventosAtletas
     {
         public IRepositorioEventoAtleta RepositorioEventoAtleta { get; set; }
+
         public ListadoEventoAtletas(IRepositorioEventoAtleta repositorioEventoAtleta)
         {
             RepositorioEventoAtleta = repositorioEventoAtleta;
@@ -35,6 +36,12 @@ namespace LogicaAplicacion.CU
         public IEnumerable<ListadoEventoAtletaDTO> GetAll()
         {
             IEnumerable<EventoAtleta> eventoAtleta = RepositorioEventoAtleta.FindAll();
+            return MappersEventoAtleta.ToDTOs(eventoAtleta);
+        }
+
+        public IEnumerable<ListadoEventoAtletaDTO> GetAllPorRangoPuntaje(decimal min, decimal max)
+        {
+            IEnumerable<EventoAtleta> eventoAtleta = RepositorioEventoAtleta.GetEventosPorPuntajes(min, max);
             return MappersEventoAtleta.ToDTOs(eventoAtleta);
         }
     }

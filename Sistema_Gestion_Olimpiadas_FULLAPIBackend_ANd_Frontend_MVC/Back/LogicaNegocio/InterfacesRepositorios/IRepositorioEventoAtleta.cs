@@ -7,10 +7,11 @@ using System.Threading.Tasks;
 
 namespace LogicaNegocio.InterfacesRepositorios
 {
-    public interface IRepositorioEventoAtleta:IRepositorio<EventoAtleta>
+    public interface IRepositorioEventoAtleta : IRepositorio<EventoAtleta>
     {
         IEnumerable<EventoAtleta> ObtenerAtletasPorEvento(int idEvento);
-        IEnumerable<EventoAtleta> ObtenerEventosPorAtleta(int idAtleta); 
+        IEnumerable<EventoAtleta> ObtenerEventosPorAtleta(int idAtleta);
         int FindIdByAtletaEvento(int idEvento, int idAtleta);
+        IEnumerable<EventoAtleta> GetEventosPorPuntajes(decimal min, decimal max);
     }
 }

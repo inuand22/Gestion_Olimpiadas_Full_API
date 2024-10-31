@@ -6,6 +6,49 @@ namespace Presentacion.Controllers
 {
     public class DisciplinaController : Controller
     {
+        public ActionResult FiltrosDisciplinas()
+        {
+            return View();
+        }
+
+        public ActionResult GetDisciplinaXNombre(string nombre)
+        {
+            try
+            {
+                string url = "http://localhost:5118/nombre/" + nombre;
+                HttpClient cliente = new HttpClient();
+
+                Task<HttpResponseMessage> tarea1 = cliente.GetAsync(url);
+                tarea1.Wait();
+
+                HttpResponseMessage respuesta = tarea1.Result;
+
+                HttpContent contenido = respuesta.Content;
+
+                Task<string> tarea2 = contenido.ReadAsStringAsync();
+                tarea2.Wait();
+
+                if (respuesta.IsSuccessStatusCode)
+                {
+                    string json = tarea2.Result;
+                    ListadoDisciplinaDTO disciplina = JsonConvert.DeserializeObject<ListadoDisciplinaDTO>(json);
+                    return View(disciplina);
+                }
+                else
+                {
+                    string error = tarea2.Result;
+                    ViewBag.Error = error;
+                }
+            }
+            catch (Exception ex)
+            {
+                ViewBag.Error = "Ocurrión un error inesperado!";
+            }
+
+            return View(new ListadoDisciplinaDTO());
+        }
+
+
         //GET
         public ActionResult Index()
         {
@@ -93,7 +136,7 @@ namespace Presentacion.Controllers
         {
             try
             {
-                
+
                 string url = "http://localhost:5118/api/disciplinas";
                 HttpClient cliente = new HttpClient();
 
@@ -157,6 +200,44 @@ namespace Presentacion.Controllers
             return View();
         }
 
+        // GET: DisciplinaController/Details/5
+        public ActionResult Details(int id)
+        {
+            try
+            {
+                string url = "http://localhost:5118/api/disciplinas/" + id;
+                HttpClient cliente = new HttpClient();
+
+                Task<HttpResponseMessage> tarea1 = cliente.GetAsync(url);
+                tarea1.Wait();
+
+                HttpResponseMessage respuesta = tarea1.Result;
+
+                HttpContent contenido = respuesta.Content;
+
+                Task<string> tarea2 = contenido.ReadAsStringAsync();
+                tarea2.Wait();
+
+                if (respuesta.IsSuccessStatusCode)
+                {
+                    string json = tarea2.Result;
+                    ListadoDisciplinaDTO disciplina = JsonConvert.DeserializeObject<ListadoDisciplinaDTO>(json);
+                    return View(disciplina);
+                }
+                else
+                {
+                    string error = tarea2.Result;
+                    ViewBag.Error = error;
+                }
+            }
+            catch (Exception ex)
+            {
+                ViewBag.Error = "Ocurrión un error inesperado!";
+            }
+
+            return View();
+        }
+
         // POST: DisciplinaController/Edit/5
         [HttpPost]
         [ValidateAntiForgeryToken]
@@ -164,7 +245,7 @@ namespace Presentacion.Controllers
         {
             try
             {
-        
+
                 string url = "http://localhost:5118/api/disciplinas/" + dto.IdDisciplina;
 
                 HttpClient cliente = new HttpClient();
@@ -194,7 +275,6 @@ namespace Presentacion.Controllers
         // GET: DisciplinaController/Delete/5
         public ActionResult Delete(int id)
         {
-            
             try
             {
                 string url = "http://localhost:5118/api/disciplinas/" + id;
@@ -237,8 +317,8 @@ namespace Presentacion.Controllers
         {
             try
             {
-       
-                string url = "http://localhost:5118/api/disciplinas/" + dto.IdDisciplina; 
+
+                string url = "http://localhost:5118/api/disciplinas/" + dto.IdDisciplina;
 
                 HttpClient cliente = new HttpClient();
                 var tarea1 = cliente.DeleteAsync(url);
@@ -268,139 +348,7 @@ namespace Presentacion.Controllers
 
 
 
-    
 
-//public DisciplinaController(IAltaDisciplina cUAltaDisciplina, IListadoDisciplina cUListadoDisciplina,
-//    ILoginUsuario cULoginUsuario)
-//{
-//    CUAltaDisciplina = cUAltaDisciplina;
-//    CUListadoDisciplina = cUListadoDisciplina;
-//    CULoginUsuario = cULoginUsuario;
-//}
-//public bool EstaLogueado()
-//{
-//    string email = HttpContext.Session.GetString("emailUsuarioLogueado");
-//    try
-//    {
-//        Usuario userLogueado = CULoginUsuario.FindByMail(email);
-//        if (userLogueado == null)
-//        {
-//            return false;
-//        }
-//        else
-//        {
-//            return true;
-//        }
-//    }
-//    catch (ExcepcionesUsuario ex)
-//    {
-//        ViewBag.Error = ex.Message;
-//        return false;
-//    }
-//}
 
-//public bool EsDigitador()
-//{
-//    string admin = HttpContext.Session.GetString("rolUsuarioLogueado");
-//    if (admin == "Digitador")
-//    {
-//        return true;
-//    }
-//    else
-//    {
-//        return false;
-//    }
-//}
-//// GET: DisciplinaController
-//public ActionResult Index()
-//{
-//    if (EstaLogueado() && EsDigitador())
-//    {
-//        return View(CUListadoDisciplina.GetDisciplinas());
-//    }
-//    else
-//    {
-//        return RedirectToAction("Index", "Home");
-//    }
-//}
-
-//// GET: DisciplinaController/Create
-//public ActionResult Create()
-//{
-//    if (EstaLogueado() && EsDigitador())
-//    {
-//        AltaDisciplinaDTO dto = new AltaDisciplinaDTO();
-//        return View(dto);
-//    }
-//    else
-//    {
-//        return RedirectToAction("Index", "Home");
-//    }
-//}
-
-//// POST: DisciplinaController/Create
-//[HttpPost]
-//[ValidateAntiForgeryToken]
-//public ActionResult Create(AltaDisciplinaDTO dto)
-//{
-//    try
-//    {
-//        CUAltaDisciplina.AltaDisci(dto);
-//        return RedirectToAction(nameof(Index));
-//    }
-//    catch (ExcepcionesDisciplina ex)
-//    {
-//        ViewBag.Error = ex.Message;
-//        return View();
-//    }
-//}
-
-//// GET: DisciplinaController/Details/5
-//public ActionResult Details(int id)
-//{
-//    return View();
-//}
-
-//// GET: DisciplinaController/Edit/5
-//public ActionResult Edit(int id)
-//{
-//    return View();
-//}
-
-//// POST: DisciplinaController/Edit/5
-//[HttpPost]
-//[ValidateAntiForgeryToken]
-//public ActionResult Edit(int id, IFormCollection collection)
-//{
-//    try
-//    {
-//        return RedirectToAction(nameof(Index));
-//    }
-//    catch
-//    {
-//        return View();
-//    }
-//}
-
-//// GET: DisciplinaController/Delete/5
-//public ActionResult Delete(int id)
-//{
-//    return View();
-//}
-
-//// POST: DisciplinaController/Delete/5
-//[HttpPost]
-//[ValidateAntiForgeryToken]
-//public ActionResult Delete(int id, IFormCollection collection)
-//{
-//    try
-//    {
-//        return RedirectToAction(nameof(Index));
-//    }
-//    catch
-//    {
-//        return View();
-//    }
-//}
 
 

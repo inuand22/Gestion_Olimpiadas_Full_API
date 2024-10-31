@@ -96,6 +96,19 @@ namespace LogicaDatos.Repositorios
                     .OrderBy(eveatl => eveatl.Evento.Disciplina.Nombre.Valor)
                     .ToList();
             }
+
+            public IEnumerable<EventoAtleta> GetEventosPorPuntajes(decimal min, decimal max)
+            {
+                if (min > max)
+                {
+                    throw new ExcepcionesEvento("El puntaje minímo no puede ser mayor al máximo");
+                }
+                return Context.EventoAtleta
+                    .Include(eveatl => eveatl.Evento)
+                    .Include(eveatl => eveatl.Atleta)
+                    .Where(eveatl => eveatl.PuntajeAtleta >= min && eveatl.PuntajeAtleta <= max)
+                    .ToList();
+            }
         }
     }
 }

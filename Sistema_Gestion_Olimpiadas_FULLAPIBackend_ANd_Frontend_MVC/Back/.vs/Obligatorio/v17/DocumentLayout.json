@@ -1,14 +1,82 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\lucia\\OneDrive\\Escritorio\\Obligatorio 2 - 29-10- 2200hs\\Back\\",
+  "WorkspaceRootPath": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Back\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8FC12D1B-9082-4D0D-BE8F-A5DF11645211}|Api\\WebApi.csproj|c:\\users\\lucia\\onedrive\\escritorio\\obligatorio 2 - 29-10- 2200hs\\back\\api\\controllers\\disciplinascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8FC12D1B-9082-4D0D-BE8F-A5DF11645211}|Api\\WebApi.csproj|f:\\usuario\\desktop\\ort\\programaci\u00F3n iii\\obligatorio 2\\obligatorio 2 - 31-10\\back\\api\\controllers\\disciplinascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8FC12D1B-9082-4D0D-BE8F-A5DF11645211}|Api\\WebApi.csproj|solutionrelative:api\\controllers\\disciplinascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FC12D1B-9082-4D0D-BE8F-A5DF11645211}|Api\\WebApi.csproj|c:\\users\\lucia\\onedrive\\escritorio\\obligatorio 2 - 29-10- 2200hs\\back\\api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{9D1EFAF9-32EA-4662-8AA5-7595E69C79DC}|LogicaDatos\\LogicaDatos.csproj|f:\\usuario\\desktop\\ort\\programaci\u00F3n iii\\obligatorio 2\\obligatorio 2 - 31-10\\back\\logicadatos\\repositorios\\repositoriodisciplinabd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D1EFAF9-32EA-4662-8AA5-7595E69C79DC}|LogicaDatos\\LogicaDatos.csproj|solutionrelative:logicadatos\\repositorios\\repositoriodisciplinabd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C791E88-637D-46EC-9A6A-CE05341BBE29}|LogicaAplicacion\\LogicaAplicacion.csproj|f:\\usuario\\desktop\\ort\\programaci\u00F3n iii\\obligatorio 2\\obligatorio 2 - 31-10\\back\\logicaaplicacion\\cu\\listadodisciplina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C791E88-637D-46EC-9A6A-CE05341BBE29}|LogicaAplicacion\\LogicaAplicacion.csproj|solutionrelative:logicaaplicacion\\cu\\listadodisciplina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C791E88-637D-46EC-9A6A-CE05341BBE29}|LogicaAplicacion\\LogicaAplicacion.csproj|f:\\usuario\\desktop\\ort\\programaci\u00F3n iii\\obligatorio 2\\obligatorio 2 - 31-10\\back\\logicaaplicacion\\interfacescu\\ilistadodisciplina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C791E88-637D-46EC-9A6A-CE05341BBE29}|LogicaAplicacion\\LogicaAplicacion.csproj|solutionrelative:logicaaplicacion\\interfacescu\\ilistadodisciplina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08102689-F3E2-4E38-B9A6-CFCC259DC5EB}|LogicaNegocio\\LogicaNegocio.csproj|f:\\usuario\\desktop\\ort\\programaci\u00F3n iii\\obligatorio 2\\obligatorio 2 - 31-10\\back\\logicanegocio\\interfacesrepositorios\\irepositoriodisciplina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08102689-F3E2-4E38-B9A6-CFCC259DC5EB}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\interfacesrepositorios\\irepositoriodisciplina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC12D1B-9082-4D0D-BE8F-A5DF11645211}|Api\\WebApi.csproj|f:\\usuario\\desktop\\ort\\programaci\u00F3n iii\\obligatorio 2\\obligatorio 2 - 31-10\\back\\api\\controllers\\eventoatletacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FC12D1B-9082-4D0D-BE8F-A5DF11645211}|Api\\WebApi.csproj|solutionrelative:api\\controllers\\eventoatletacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{955F30BF-F8EA-482B-9259-77338529D6AC}|DTO\\DTO.csproj|f:\\usuario\\desktop\\ort\\programaci\u00F3n iii\\obligatorio 2\\obligatorio 2 - 31-10\\back\\dto\\listadoeventoatletadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{955F30BF-F8EA-482B-9259-77338529D6AC}|DTO\\DTO.csproj|solutionrelative:dto\\listadoeventoatletadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C791E88-637D-46EC-9A6A-CE05341BBE29}|LogicaAplicacion\\LogicaAplicacion.csproj|f:\\usuario\\desktop\\ort\\programaci\u00F3n iii\\obligatorio 2\\obligatorio 2 - 31-10\\back\\logicaaplicacion\\cu\\listadoeventoatletas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C791E88-637D-46EC-9A6A-CE05341BBE29}|LogicaAplicacion\\LogicaAplicacion.csproj|solutionrelative:logicaaplicacion\\cu\\listadoeventoatletas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D1EFAF9-32EA-4662-8AA5-7595E69C79DC}|LogicaDatos\\LogicaDatos.csproj|f:\\usuario\\desktop\\ort\\programaci\u00F3n iii\\obligatorio 2\\obligatorio 2 - 31-10\\back\\logicadatos\\repositorios\\repositorioeventoatletabd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D1EFAF9-32EA-4662-8AA5-7595E69C79DC}|LogicaDatos\\LogicaDatos.csproj|solutionrelative:logicadatos\\repositorios\\repositorioeventoatletabd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC12D1B-9082-4D0D-BE8F-A5DF11645211}|Api\\WebApi.csproj|f:\\usuario\\desktop\\ort\\programaci\u00F3n iii\\obligatorio 2\\obligatorio 2 - 31-10\\back\\api\\controllers\\eventoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FC12D1B-9082-4D0D-BE8F-A5DF11645211}|Api\\WebApi.csproj|solutionrelative:api\\controllers\\eventoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C791E88-637D-46EC-9A6A-CE05341BBE29}|LogicaAplicacion\\LogicaAplicacion.csproj|f:\\usuario\\desktop\\ort\\programaci\u00F3n iii\\obligatorio 2\\obligatorio 2 - 31-10\\back\\logicaaplicacion\\cu\\listadoeventos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C791E88-637D-46EC-9A6A-CE05341BBE29}|LogicaAplicacion\\LogicaAplicacion.csproj|solutionrelative:logicaaplicacion\\cu\\listadoeventos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC12D1B-9082-4D0D-BE8F-A5DF11645211}|Api\\WebApi.csproj|f:\\usuario\\desktop\\ort\\programaci\u00F3n iii\\obligatorio 2\\obligatorio 2 - 31-10\\back\\api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{8FC12D1B-9082-4D0D-BE8F-A5DF11645211}|Api\\WebApi.csproj|solutionrelative:api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{955F30BF-F8EA-482B-9259-77338529D6AC}|DTO\\DTO.csproj|f:\\usuario\\desktop\\ort\\programaci\u00F3n iii\\obligatorio 2\\obligatorio 2 - 31-10\\back\\dto\\mappers\\mapperseventos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{955F30BF-F8EA-482B-9259-77338529D6AC}|DTO\\DTO.csproj|solutionrelative:dto\\mappers\\mapperseventos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D1EFAF9-32EA-4662-8AA5-7595E69C79DC}|LogicaDatos\\LogicaDatos.csproj|f:\\usuario\\desktop\\ort\\programaci\u00F3n iii\\obligatorio 2\\obligatorio 2 - 31-10\\back\\logicadatos\\repositorios\\repositorioeventobd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D1EFAF9-32EA-4662-8AA5-7595E69C79DC}|LogicaDatos\\LogicaDatos.csproj|solutionrelative:logicadatos\\repositorios\\repositorioeventobd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C791E88-637D-46EC-9A6A-CE05341BBE29}|LogicaAplicacion\\LogicaAplicacion.csproj|f:\\usuario\\desktop\\ort\\programaci\u00F3n iii\\obligatorio 2\\obligatorio 2 - 31-10\\back\\logicaaplicacion\\interfacescu\\ilistadoeventos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C791E88-637D-46EC-9A6A-CE05341BBE29}|LogicaAplicacion\\LogicaAplicacion.csproj|solutionrelative:logicaaplicacion\\interfacescu\\ilistadoeventos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC12D1B-9082-4D0D-BE8F-A5DF11645211}|Api\\WebApi.csproj|f:\\usuario\\desktop\\ort\\programaci\u00F3n iii\\obligatorio 2\\obligatorio 2 - 31-10\\back\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FC12D1B-9082-4D0D-BE8F-A5DF11645211}|Api\\WebApi.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08102689-F3E2-4E38-B9A6-CFCC259DC5EB}|LogicaNegocio\\LogicaNegocio.csproj|f:\\usuario\\desktop\\ort\\programaci\u00F3n iii\\obligatorio 2\\obligatorio 2 - 31-10\\back\\logicanegocio\\interfacesrepositorios\\irepositorioeventoatleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08102689-F3E2-4E38-B9A6-CFCC259DC5EB}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\interfacesrepositorios\\irepositorioeventoatleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08102689-F3E2-4E38-B9A6-CFCC259DC5EB}|LogicaNegocio\\LogicaNegocio.csproj|f:\\usuario\\desktop\\ort\\programaci\u00F3n iii\\obligatorio 2\\obligatorio 2 - 31-10\\back\\logicanegocio\\interfacesrepositorios\\irepositorioevento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08102689-F3E2-4E38-B9A6-CFCC259DC5EB}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\interfacesrepositorios\\irepositorioevento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C791E88-637D-46EC-9A6A-CE05341BBE29}|LogicaAplicacion\\LogicaAplicacion.csproj|f:\\usuario\\desktop\\ort\\programaci\u00F3n iii\\obligatorio 2\\obligatorio 2 - 31-10\\back\\logicaaplicacion\\interfacescu\\ilistadoeventosatletas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C791E88-637D-46EC-9A6A-CE05341BBE29}|LogicaAplicacion\\LogicaAplicacion.csproj|solutionrelative:logicaaplicacion\\interfacescu\\ilistadoeventosatletas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,33 +86,245 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 18,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRepositorioDisciplina.cs",
+              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Back\\LogicaNegocio\\InterfacesRepositorios\\IRepositorioDisciplina.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\InterfacesRepositorios\\IRepositorioDisciplina.cs",
+              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Back\\LogicaNegocio\\InterfacesRepositorios\\IRepositorioDisciplina.cs",
+              "RelativeToolTip": "LogicaNegocio\\InterfacesRepositorios\\IRepositorioDisciplina.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAwwAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T22:52:24.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RepositorioDisciplinaBD.cs",
+              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Back\\LogicaDatos\\Repositorios\\RepositorioDisciplinaBD.cs",
+              "RelativeDocumentMoniker": "LogicaDatos\\Repositorios\\RepositorioDisciplinaBD.cs",
+              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Back\\LogicaDatos\\Repositorios\\RepositorioDisciplinaBD.cs",
+              "RelativeToolTip": "LogicaDatos\\Repositorios\\RepositorioDisciplinaBD.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAwwCcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T22:51:43.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IListadoDisciplina.cs",
+              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Back\\LogicaAplicacion\\InterfacesCU\\IListadoDisciplina.cs",
+              "RelativeDocumentMoniker": "LogicaAplicacion\\InterfacesCU\\IListadoDisciplina.cs",
+              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Back\\LogicaAplicacion\\InterfacesCU\\IListadoDisciplina.cs",
+              "RelativeToolTip": "LogicaAplicacion\\InterfacesCU\\IListadoDisciplina.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T22:51:18.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListadoDisciplina.cs",
+              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Back\\LogicaAplicacion\\CU\\ListadoDisciplina.cs",
+              "RelativeDocumentMoniker": "LogicaAplicacion\\CU\\ListadoDisciplina.cs",
+              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Back\\LogicaAplicacion\\CU\\ListadoDisciplina.cs",
+              "RelativeToolTip": "LogicaAplicacion\\CU\\ListadoDisciplina.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAD4vzEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T22:50:49.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Back\\Api\\Program.cs",
+              "RelativeDocumentMoniker": "Api\\Program.cs",
+              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Back\\Api\\Program.cs",
+              "RelativeToolTip": "Api\\Program.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAmwDUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T20:59:12.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EventoAtletaController.cs",
+              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Back\\Api\\Controllers\\EventoAtletaController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\EventoAtletaController.cs",
+              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Back\\Api\\Controllers\\EventoAtletaController.cs",
+              "RelativeToolTip": "Api\\Controllers\\EventoAtletaController.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAWwFgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T20:48:17.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EventosController.cs",
+              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Back\\Api\\Controllers\\EventosController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\EventosController.cs",
+              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Back\\Api\\Controllers\\EventosController.cs",
+              "RelativeToolTip": "Api\\Controllers\\EventosController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAuwDcAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T20:47:41.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IRepositorioEventoAtleta.cs",
+              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Back\\LogicaNegocio\\InterfacesRepositorios\\IRepositorioEventoAtleta.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\InterfacesRepositorios\\IRepositorioEventoAtleta.cs",
+              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Back\\LogicaNegocio\\InterfacesRepositorios\\IRepositorioEventoAtleta.cs",
+              "RelativeToolTip": "LogicaNegocio\\InterfacesRepositorios\\IRepositorioEventoAtleta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T20:44:13.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RepositorioEventoAtletaBD.cs",
+              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Back\\LogicaDatos\\Repositorios\\RepositorioEventoAtletaBD.cs",
+              "RelativeDocumentMoniker": "LogicaDatos\\Repositorios\\RepositorioEventoAtletaBD.cs",
+              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Back\\LogicaDatos\\Repositorios\\RepositorioEventoAtletaBD.cs",
+              "RelativeToolTip": "LogicaDatos\\Repositorios\\RepositorioEventoAtletaBD.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAtwG4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T20:43:54.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ListadoEventoAtletas.cs",
+              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Back\\LogicaAplicacion\\CU\\ListadoEventoAtletas.cs",
+              "RelativeDocumentMoniker": "LogicaAplicacion\\CU\\ListadoEventoAtletas.cs",
+              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Back\\LogicaAplicacion\\CU\\ListadoEventoAtletas.cs",
+              "RelativeToolTip": "LogicaAplicacion\\CU\\ListadoEventoAtletas.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAIwC0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T20:41:41.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ListadoEventos.cs",
+              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Back\\LogicaAplicacion\\CU\\ListadoEventos.cs",
+              "RelativeDocumentMoniker": "LogicaAplicacion\\CU\\ListadoEventos.cs",
+              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Back\\LogicaAplicacion\\CU\\ListadoEventos.cs",
+              "RelativeToolTip": "LogicaAplicacion\\CU\\ListadoEventos.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAcwCYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T20:40:00.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IListadoEventosAtletas.cs",
+              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Back\\LogicaAplicacion\\InterfacesCU\\IListadoEventosAtletas.cs",
+              "RelativeDocumentMoniker": "LogicaAplicacion\\InterfacesCU\\IListadoEventosAtletas.cs",
+              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Back\\LogicaAplicacion\\InterfacesCU\\IListadoEventosAtletas.cs",
+              "RelativeToolTip": "LogicaAplicacion\\InterfacesCU\\IListadoEventosAtletas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T20:39:20.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IListadoEventos.cs",
+              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Back\\LogicaAplicacion\\InterfacesCU\\IListadoEventos.cs",
+              "RelativeDocumentMoniker": "LogicaAplicacion\\InterfacesCU\\IListadoEventos.cs",
+              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Back\\LogicaAplicacion\\InterfacesCU\\IListadoEventos.cs",
+              "RelativeToolTip": "LogicaAplicacion\\InterfacesCU\\IListadoEventos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T20:38:20.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MappersEventos.cs",
+              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Back\\DTO\\Mappers\\MappersEventos.cs",
+              "RelativeDocumentMoniker": "DTO\\Mappers\\MappersEventos.cs",
+              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Back\\DTO\\Mappers\\MappersEventos.cs",
+              "RelativeToolTip": "DTO\\Mappers\\MappersEventos.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAIwCsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T20:36:57.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ListadoEventoAtletaDTO.cs",
+              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Back\\DTO\\ListadoEventoAtletaDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\ListadoEventoAtletaDTO.cs",
+              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Back\\DTO\\ListadoEventoAtletaDTO.cs",
+              "RelativeToolTip": "DTO\\ListadoEventoAtletaDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T20:35:40.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RepositorioEventoBD.cs",
+              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Back\\LogicaDatos\\Repositorios\\RepositorioEventoBD.cs",
+              "RelativeDocumentMoniker": "LogicaDatos\\Repositorios\\RepositorioEventoBD.cs",
+              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Back\\LogicaDatos\\Repositorios\\RepositorioEventoBD.cs",
+              "RelativeToolTip": "LogicaDatos\\Repositorios\\RepositorioEventoBD.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAIwG8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T20:24:42.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IRepositorioEvento.cs",
+              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Back\\LogicaNegocio\\InterfacesRepositorios\\IRepositorioEvento.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\InterfacesRepositorios\\IRepositorioEvento.cs",
+              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Back\\LogicaNegocio\\InterfacesRepositorios\\IRepositorioEvento.cs",
+              "RelativeToolTip": "LogicaNegocio\\InterfacesRepositorios\\IRepositorioEvento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T20:21:16.261Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "DisciplinasController.cs",
-              "DocumentMoniker": "C:\\Users\\lucia\\OneDrive\\Escritorio\\Obligatorio 2 - 29-10- 2200hs\\Back\\Api\\Controllers\\DisciplinasController.cs",
+              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Back\\Api\\Controllers\\DisciplinasController.cs",
               "RelativeDocumentMoniker": "Api\\Controllers\\DisciplinasController.cs",
-              "ToolTip": "C:\\Users\\lucia\\OneDrive\\Escritorio\\Obligatorio 2 - 29-10- 2200hs\\Back\\Api\\Controllers\\DisciplinasController.cs",
+              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Back\\Api\\Controllers\\DisciplinasController.cs",
               "RelativeToolTip": "Api\\Controllers\\DisciplinasController.cs",
-              "ViewState": "AgIAAGIAAAAAAAAAAAAAwJ4AAAANAAAAAAAAAA==",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAswEkAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-30T20:33:46.579Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 11,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\lucia\\OneDrive\\Escritorio\\Obligatorio 2 - 29-10- 2200hs\\Back\\Api\\Properties\\launchSettings.json",
+              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Back\\Api\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Api\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\lucia\\OneDrive\\Escritorio\\Obligatorio 2 - 29-10- 2200hs\\Back\\Api\\Properties\\launchSettings.json",
+              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Back\\Api\\Properties\\launchSettings.json",
               "RelativeToolTip": "Api\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-30T20:33:20.983Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-30T20:33:20.983Z"
             }
           ]
         }
