@@ -65,7 +65,7 @@ namespace WebApi.Controllers
         }
 
         // GET api/<DisciplinasController>/nombre/{nombre}
-        [HttpGet("/nombre/{nombre}", Name = "FindXName")]
+        [HttpGet("nombre/{nombre}", Name = "FindXName")]
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
         [ProducesResponseType(StatusCodes.Status404NotFound)]

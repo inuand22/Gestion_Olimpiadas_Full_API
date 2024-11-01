@@ -1262,3 +1262,24 @@ F:\USUARIO\Desktop\ORT\Programación III\Obligatorio 2\Obligatorio 2 - 31-10\Bac
 F:\USUARIO\Desktop\ORT\Programación III\Obligatorio 2\Obligatorio 2 - 31-10\Back\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.pdb
 F:\USUARIO\Desktop\ORT\Programación III\Obligatorio 2\Obligatorio 2 - 31-10\Back\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.genruntimeconfig.cache
 F:\USUARIO\Desktop\ORT\Programación III\Obligatorio 2\Obligatorio 2 - 31-10\Back\LogicaAplicacion\obj\Debug\net8.0\ref\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio 2\Obligatorio 2 - 31-10 - 2030 hs\Back\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.deps.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio 2\Obligatorio 2 - 31-10 - 2030 hs\Back\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.runtimeconfig.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio 2\Obligatorio 2 - 31-10 - 2030 hs\Back\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio 2\Obligatorio 2 - 31-10 - 2030 hs\Back\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio 2\Obligatorio 2 - 31-10 - 2030 hs\Back\LogicaAplicacion\bin\Debug\net8.0\DTO.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio 2\Obligatorio 2 - 31-10 - 2030 hs\Back\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio 2\Obligatorio 2 - 31-10 - 2030 hs\Back\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio 2\Obligatorio 2 - 31-10 - 2030 hs\Back\LogicaAplicacion\bin\Debug\net8.0\DTO.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio 2\Obligatorio 2 - 31-10 - 2030 hs\Back\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio 2\Obligatorio 2 - 31-10 - 2030 hs\Back\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio 2\Obligatorio 2 - 31-10 - 2030 hs\Back\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.AssemblyReference.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio 2\Obligatorio 2 - 31-10 - 2030 hs\Back\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio 2\Obligatorio 2 - 31-10 - 2030 hs\Back\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio 2\Obligatorio 2 - 31-10 - 2030 hs\Back\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio 2\Obligatorio 2 - 31-10 - 2030 hs\Back\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio 2\Obligatorio 2 - 31-10 - 2030 hs\Back\LogicaAplicacion\obj\Debug\net8.0\LogicaAp.7CDA08B3.Up2Date
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio 2\Obligatorio 2 - 31-10 - 2030 hs\Back\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio 2\Obligatorio 2 - 31-10 - 2030 hs\Back\LogicaAplicacion\obj\Debug\net8.0\refint\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio 2\Obligatorio 2 - 31-10 - 2030 hs\Back\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio 2\Obligatorio 2 - 31-10 - 2030 hs\Back\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.genruntimeconfig.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio 2\Obligatorio 2 - 31-10 - 2030 hs\Back\LogicaAplicacion\obj\Debug\net8.0\ref\LogicaAplicacion.dll

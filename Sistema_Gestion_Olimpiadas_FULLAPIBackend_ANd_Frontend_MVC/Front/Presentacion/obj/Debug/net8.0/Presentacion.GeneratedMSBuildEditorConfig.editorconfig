@@ -17,127 +17,127 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Presentacion
 build_property.RootNamespace = Presentacion
-build_property.ProjectDir = F:\USUARIO\Desktop\ORT\Programación III\Obligatorio 2\Obligatorio 2 - 31-10\Front\Presentacion\
+build_property.ProjectDir = F:\USUARIO\Desktop\ORT\Programación III\Obligatorio 2\Obligatorio 2 - 31-10 - 2030 hs\Front\Presentacion\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = F:\USUARIO\Desktop\ORT\Programación III\Obligatorio 2\Obligatorio 2 - 31-10\Front\Presentacion
+build_property.MSBuildProjectDirectory = F:\USUARIO\Desktop\ORT\Programación III\Obligatorio 2\Obligatorio 2 - 31-10 - 2030 hs\Front\Presentacion
 build_property._RazorSourceGeneratorDebug = 
 
-[F:/USUARIO/Desktop/ORT/Programación III/Obligatorio 2/Obligatorio 2 - 31-10/Front/Presentacion/Views/Disciplina/AtletasXDisciplina.cshtml]
+[F:/USUARIO/Desktop/ORT/Programación III/Obligatorio 2/Obligatorio 2 - 31-10 - 2030 hs/Front/Presentacion/Views/Disciplina/AtletasXDisciplina.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzY2lwbGluYVxBdGxldGFzWERpc2NpcGxpbmEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/USUARIO/Desktop/ORT/Programación III/Obligatorio 2/Obligatorio 2 - 31-10/Front/Presentacion/Views/Disciplina/Create.cshtml]
+[F:/USUARIO/Desktop/ORT/Programación III/Obligatorio 2/Obligatorio 2 - 31-10 - 2030 hs/Front/Presentacion/Views/Disciplina/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzY2lwbGluYVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/USUARIO/Desktop/ORT/Programación III/Obligatorio 2/Obligatorio 2 - 31-10/Front/Presentacion/Views/Disciplina/Delete.cshtml]
+[F:/USUARIO/Desktop/ORT/Programación III/Obligatorio 2/Obligatorio 2 - 31-10 - 2030 hs/Front/Presentacion/Views/Disciplina/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzY2lwbGluYVxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/USUARIO/Desktop/ORT/Programación III/Obligatorio 2/Obligatorio 2 - 31-10/Front/Presentacion/Views/Disciplina/Details.cshtml]
+[F:/USUARIO/Desktop/ORT/Programación III/Obligatorio 2/Obligatorio 2 - 31-10 - 2030 hs/Front/Presentacion/Views/Disciplina/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzY2lwbGluYVxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/USUARIO/Desktop/ORT/Programación III/Obligatorio 2/Obligatorio 2 - 31-10/Front/Presentacion/Views/Disciplina/Edit.cshtml]
+[F:/USUARIO/Desktop/ORT/Programación III/Obligatorio 2/Obligatorio 2 - 31-10 - 2030 hs/Front/Presentacion/Views/Disciplina/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzY2lwbGluYVxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/USUARIO/Desktop/ORT/Programación III/Obligatorio 2/Obligatorio 2 - 31-10/Front/Presentacion/Views/Disciplina/FiltrosDisciplinas.cshtml]
+[F:/USUARIO/Desktop/ORT/Programación III/Obligatorio 2/Obligatorio 2 - 31-10 - 2030 hs/Front/Presentacion/Views/Disciplina/FiltrosDisciplinas.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzY2lwbGluYVxGaWx0cm9zRGlzY2lwbGluYXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/USUARIO/Desktop/ORT/Programación III/Obligatorio 2/Obligatorio 2 - 31-10/Front/Presentacion/Views/Disciplina/GetDisciplinaXNombre.cshtml]
+[F:/USUARIO/Desktop/ORT/Programación III/Obligatorio 2/Obligatorio 2 - 31-10 - 2030 hs/Front/Presentacion/Views/Disciplina/GetDisciplinaXNombre.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzY2lwbGluYVxHZXREaXNjaXBsaW5hWE5vbWJyZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/USUARIO/Desktop/ORT/Programación III/Obligatorio 2/Obligatorio 2 - 31-10/Front/Presentacion/Views/Disciplina/Index.cshtml]
+[F:/USUARIO/Desktop/ORT/Programación III/Obligatorio 2/Obligatorio 2 - 31-10 - 2030 hs/Front/Presentacion/Views/Disciplina/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzY2lwbGluYVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/USUARIO/Desktop/ORT/Programación III/Obligatorio 2/Obligatorio 2 - 31-10/Front/Presentacion/Views/Evento/Create.cshtml]
+[F:/USUARIO/Desktop/ORT/Programación III/Obligatorio 2/Obligatorio 2 - 31-10 - 2030 hs/Front/Presentacion/Views/Evento/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRvXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/USUARIO/Desktop/ORT/Programación III/Obligatorio 2/Obligatorio 2 - 31-10/Front/Presentacion/Views/Evento/Edit.cshtml]
+[F:/USUARIO/Desktop/ORT/Programación III/Obligatorio 2/Obligatorio 2 - 31-10 - 2030 hs/Front/Presentacion/Views/Evento/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRvXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/USUARIO/Desktop/ORT/Programación III/Obligatorio 2/Obligatorio 2 - 31-10/Front/Presentacion/Views/Evento/FiltrosEventos.cshtml]
+[F:/USUARIO/Desktop/ORT/Programación III/Obligatorio 2/Obligatorio 2 - 31-10 - 2030 hs/Front/Presentacion/Views/Evento/FiltrosEventos.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRvXEZpbHRyb3NFdmVudG9zLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/USUARIO/Desktop/ORT/Programación III/Obligatorio 2/Obligatorio 2 - 31-10/Front/Presentacion/Views/Evento/GetEventosXIdDisciplina.cshtml]
+[F:/USUARIO/Desktop/ORT/Programación III/Obligatorio 2/Obligatorio 2 - 31-10 - 2030 hs/Front/Presentacion/Views/Evento/GetEventosXIdDisciplina.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRvXEdldEV2ZW50b3NYSWREaXNjaXBsaW5hLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/USUARIO/Desktop/ORT/Programación III/Obligatorio 2/Obligatorio 2 - 31-10/Front/Presentacion/Views/Evento/GetEventosXNombre.cshtml]
+[F:/USUARIO/Desktop/ORT/Programación III/Obligatorio 2/Obligatorio 2 - 31-10 - 2030 hs/Front/Presentacion/Views/Evento/GetEventosXNombre.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRvXEdldEV2ZW50b3NYTm9tYnJlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/USUARIO/Desktop/ORT/Programación III/Obligatorio 2/Obligatorio 2 - 31-10/Front/Presentacion/Views/Evento/GetEventosXRangoFechas.cshtml]
+[F:/USUARIO/Desktop/ORT/Programación III/Obligatorio 2/Obligatorio 2 - 31-10 - 2030 hs/Front/Presentacion/Views/Evento/GetEventosXRangoFechas.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRvXEdldEV2ZW50b3NYUmFuZ29GZWNoYXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/USUARIO/Desktop/ORT/Programación III/Obligatorio 2/Obligatorio 2 - 31-10/Front/Presentacion/Views/Evento/GetEventosXRangoPuntajes.cshtml]
+[F:/USUARIO/Desktop/ORT/Programación III/Obligatorio 2/Obligatorio 2 - 31-10 - 2030 hs/Front/Presentacion/Views/Evento/GetEventosXRangoPuntajes.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRvXEdldEV2ZW50b3NYUmFuZ29QdW50YWplcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/USUARIO/Desktop/ORT/Programación III/Obligatorio 2/Obligatorio 2 - 31-10/Front/Presentacion/Views/Evento/Index.cshtml]
+[F:/USUARIO/Desktop/ORT/Programación III/Obligatorio 2/Obligatorio 2 - 31-10 - 2030 hs/Front/Presentacion/Views/Evento/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRvXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/USUARIO/Desktop/ORT/Programación III/Obligatorio 2/Obligatorio 2 - 31-10/Front/Presentacion/Views/Home/Index.cshtml]
+[F:/USUARIO/Desktop/ORT/Programación III/Obligatorio 2/Obligatorio 2 - 31-10 - 2030 hs/Front/Presentacion/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/USUARIO/Desktop/ORT/Programación III/Obligatorio 2/Obligatorio 2 - 31-10/Front/Presentacion/Views/Home/Login.cshtml]
+[F:/USUARIO/Desktop/ORT/Programación III/Obligatorio 2/Obligatorio 2 - 31-10 - 2030 hs/Front/Presentacion/Views/Home/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/USUARIO/Desktop/ORT/Programación III/Obligatorio 2/Obligatorio 2 - 31-10/Front/Presentacion/Views/Home/Privacy.cshtml]
+[F:/USUARIO/Desktop/ORT/Programación III/Obligatorio 2/Obligatorio 2 - 31-10 - 2030 hs/Front/Presentacion/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/USUARIO/Desktop/ORT/Programación III/Obligatorio 2/Obligatorio 2 - 31-10/Front/Presentacion/Views/Shared/Error.cshtml]
+[F:/USUARIO/Desktop/ORT/Programación III/Obligatorio 2/Obligatorio 2 - 31-10 - 2030 hs/Front/Presentacion/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/USUARIO/Desktop/ORT/Programación III/Obligatorio 2/Obligatorio 2 - 31-10/Front/Presentacion/Views/Shared/_ValidationScriptsPartial.cshtml]
+[F:/USUARIO/Desktop/ORT/Programación III/Obligatorio 2/Obligatorio 2 - 31-10 - 2030 hs/Front/Presentacion/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/USUARIO/Desktop/ORT/Programación III/Obligatorio 2/Obligatorio 2 - 31-10/Front/Presentacion/Views/Usuarios/Create.cshtml]
+[F:/USUARIO/Desktop/ORT/Programación III/Obligatorio 2/Obligatorio 2 - 31-10 - 2030 hs/Front/Presentacion/Views/Usuarios/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/USUARIO/Desktop/ORT/Programación III/Obligatorio 2/Obligatorio 2 - 31-10/Front/Presentacion/Views/Usuarios/Delete.cshtml]
+[F:/USUARIO/Desktop/ORT/Programación III/Obligatorio 2/Obligatorio 2 - 31-10 - 2030 hs/Front/Presentacion/Views/Usuarios/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/USUARIO/Desktop/ORT/Programación III/Obligatorio 2/Obligatorio 2 - 31-10/Front/Presentacion/Views/Usuarios/Details.cshtml]
+[F:/USUARIO/Desktop/ORT/Programación III/Obligatorio 2/Obligatorio 2 - 31-10 - 2030 hs/Front/Presentacion/Views/Usuarios/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/USUARIO/Desktop/ORT/Programación III/Obligatorio 2/Obligatorio 2 - 31-10/Front/Presentacion/Views/Usuarios/Edit.cshtml]
+[F:/USUARIO/Desktop/ORT/Programación III/Obligatorio 2/Obligatorio 2 - 31-10 - 2030 hs/Front/Presentacion/Views/Usuarios/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/USUARIO/Desktop/ORT/Programación III/Obligatorio 2/Obligatorio 2 - 31-10/Front/Presentacion/Views/Usuarios/ListaUsuarios.cshtml]
+[F:/USUARIO/Desktop/ORT/Programación III/Obligatorio 2/Obligatorio 2 - 31-10 - 2030 hs/Front/Presentacion/Views/Usuarios/ListaUsuarios.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcTGlzdGFVc3Vhcmlvcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/USUARIO/Desktop/ORT/Programación III/Obligatorio 2/Obligatorio 2 - 31-10/Front/Presentacion/Views/_ViewImports.cshtml]
+[F:/USUARIO/Desktop/ORT/Programación III/Obligatorio 2/Obligatorio 2 - 31-10 - 2030 hs/Front/Presentacion/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/USUARIO/Desktop/ORT/Programación III/Obligatorio 2/Obligatorio 2 - 31-10/Front/Presentacion/Views/_ViewStart.cshtml]
+[F:/USUARIO/Desktop/ORT/Programación III/Obligatorio 2/Obligatorio 2 - 31-10 - 2030 hs/Front/Presentacion/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/USUARIO/Desktop/ORT/Programación III/Obligatorio 2/Obligatorio 2 - 31-10/Front/Presentacion/Views/Shared/_Layout.cshtml]
+[F:/USUARIO/Desktop/ORT/Programación III/Obligatorio 2/Obligatorio 2 - 31-10 - 2030 hs/Front/Presentacion/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-huwsf5vtt9

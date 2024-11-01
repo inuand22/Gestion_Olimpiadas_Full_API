@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8LyymrZ0UVoubbTGCOzVynUa5BfaHmMgejrp6M3AKxThrj6a5Tqt8oLACcclP0ZLNW7hM9srXlIHgyvSTe5CdQ==",
+  "dgSpecHash": "hL2tivYgmd7ino14aRvk0/tBDhJvMX5VU3u+ZoRA2cKmMVJfVa2+ef1J4rDrj0/fVEnUaiFmXi4amkKHuolyfA==",
   "success": true,
-  "projectFilePath": "F:\\USUARIO\\Desktop\\ORT\\Programación III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Front\\Presentacion\\Presentacion.csproj",
+  "projectFilePath": "F:\\USUARIO\\Desktop\\ORT\\Programación III\\Obligatorio 2\\Obligatorio 2 - 31-10 - 2030 hs\\Front\\Presentacion\\Presentacion.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USUARIO\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\USUARIO\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

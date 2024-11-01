@@ -15,7 +15,7 @@ namespace Presentacion.Controllers
         {
             try
             {
-                string url = "http://localhost:5118/nombre/" + nombre;
+                string url = "http://localhost:5118/api/disciplinas/nombre/" + nombre;
                 HttpClient cliente = new HttpClient();
 
                 Task<HttpResponseMessage> tarea1 = cliente.GetAsync(url);

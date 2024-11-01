@@ -725,3 +725,16 @@ F:\USUARIO\Desktop\ORT\Programación III\Obligatorio 2\Obligatorio 2 - 31-10\Bac
 F:\USUARIO\Desktop\ORT\Programación III\Obligatorio 2\Obligatorio 2 - 31-10\Back\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.pdb
 F:\USUARIO\Desktop\ORT\Programación III\Obligatorio 2\Obligatorio 2 - 31-10\Back\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.genruntimeconfig.cache
 F:\USUARIO\Desktop\ORT\Programación III\Obligatorio 2\Obligatorio 2 - 31-10\Back\ExcepcionesPropias\obj\Debug\net8.0\ref\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio 2\Obligatorio 2 - 31-10 - 2030 hs\Back\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.deps.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio 2\Obligatorio 2 - 31-10 - 2030 hs\Back\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.runtimeconfig.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio 2\Obligatorio 2 - 31-10 - 2030 hs\Back\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio 2\Obligatorio 2 - 31-10 - 2030 hs\Back\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio 2\Obligatorio 2 - 31-10 - 2030 hs\Back\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio 2\Obligatorio 2 - 31-10 - 2030 hs\Back\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio 2\Obligatorio 2 - 31-10 - 2030 hs\Back\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio 2\Obligatorio 2 - 31-10 - 2030 hs\Back\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio 2\Obligatorio 2 - 31-10 - 2030 hs\Back\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio 2\Obligatorio 2 - 31-10 - 2030 hs\Back\ExcepcionesPropias\obj\Debug\net8.0\refint\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio 2\Obligatorio 2 - 31-10 - 2030 hs\Back\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio 2\Obligatorio 2 - 31-10 - 2030 hs\Back\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.genruntimeconfig.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio 2\Obligatorio 2 - 31-10 - 2030 hs\Back\ExcepcionesPropias\obj\Debug\net8.0\ref\ExcepcionesPropias.dll

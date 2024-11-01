@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NoFzc2WssjW27qokyhainj+b6k4ORBN2j+7t88VRU6C1XDZRJ5RWbCiXbJ8xyJEkYvK1i42THFAxPK7JjOBRiA==",
+  "dgSpecHash": "CW2lYo9Fc97y750wdaarSOIt8i6aq1u4jWPREBjeOUfVOVquUwT5OgI/h1NsCu9+Ub6C4T8Vl6ou2cVxbcfX8g==",
   "success": true,
-  "projectFilePath": "F:\\USUARIO\\Desktop\\ORT\\Programación III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Back\\LogicaNegocio\\LogicaNegocio.csproj",
+  "projectFilePath": "F:\\USUARIO\\Desktop\\ORT\\Programación III\\Obligatorio 2\\Obligatorio 2 - 31-10 - 2030 hs\\Back\\LogicaNegocio\\LogicaNegocio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USUARIO\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\USUARIO\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r0jZFt+ozAXMiNxqBaO1PuPJHN85liG01+RiDVJlFhtZ2BoWsfZJXmmvIOw/zOi+GMIuWtl7lCVTU6vvyElb1A==",
+  "dgSpecHash": "cpu5vpnxrVF/oinEBPevmMw9bXE8DYQF+eZ5M0crp2+P+hBa7+Otjgg1Ui24qeLK9rOPeiwWOrHPRl4XBw5qfA==",
   "success": true,
-  "projectFilePath": "F:\\USUARIO\\Desktop\\ORT\\Programación III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Back\\ExcepcionesPropias\\ExcepcionesPropias.csproj",
+  "projectFilePath": "F:\\USUARIO\\Desktop\\ORT\\Programación III\\Obligatorio 2\\Obligatorio 2 - 31-10 - 2030 hs\\Back\\ExcepcionesPropias\\ExcepcionesPropias.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USUARIO\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\USUARIO\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

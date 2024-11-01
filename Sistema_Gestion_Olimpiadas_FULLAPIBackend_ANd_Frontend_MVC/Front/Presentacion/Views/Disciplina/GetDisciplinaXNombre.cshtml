@@ -1,14 +1,7 @@
 ﻿@model DTO.ListadoDisciplinaDTO
 
-@{
-    ViewData["Title"] = "GetDisciplinaXNombre";
-}
+<h1>Disciplina Por Nombre</h1>
 
-<h1>GetDisciplinaXNombre</h1>
-
-<p>
-    <a asp-action="Create">Create New</a>
-</p>
 <table class="table">
     <thead>
         <tr>
@@ -38,3 +31,7 @@
         </tr>
     </tbody>
 </table>
+
+<div>
+    <a asp-action="FiltrosDisciplinas">Volver a la lista</a>
+</div>

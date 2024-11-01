@@ -1,81 +1,81 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Front\\",
+  "WorkspaceRootPath": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10 - 2030 hs\\Front\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|f:\\usuario\\desktop\\ort\\programaci\u00F3n iii\\obligatorio 2\\obligatorio 2 - 31-10\\front\\presentacion\\controllers\\disciplinacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\controllers\\disciplinacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|f:\\usuario\\desktop\\ort\\programaci\u00F3n iii\\obligatorio 2\\obligatorio 2 - 31-10\\front\\presentacion\\views\\disciplina\\getdisciplinaxnombre.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|f:\\usuario\\desktop\\ort\\programaci\u00F3n iii\\obligatorio 2\\obligatorio 2 - 31-10 - 2030 hs\\front\\presentacion\\views\\disciplina\\getdisciplinaxnombre.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\views\\disciplina\\getdisciplinaxnombre.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|f:\\usuario\\desktop\\ort\\programaci\u00F3n iii\\obligatorio 2\\obligatorio 2 - 31-10\\front\\presentacion\\controllers\\eventocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\controllers\\eventocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|f:\\usuario\\desktop\\ort\\programaci\u00F3n iii\\obligatorio 2\\obligatorio 2 - 31-10\\front\\presentacion\\views\\disciplina\\filtrosdisciplinas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|f:\\usuario\\desktop\\ort\\programaci\u00F3n iii\\obligatorio 2\\obligatorio 2 - 31-10 - 2030 hs\\front\\presentacion\\views\\disciplina\\filtrosdisciplinas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\views\\disciplina\\filtrosdisciplinas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|f:\\usuario\\desktop\\ort\\programaci\u00F3n iii\\obligatorio 2\\obligatorio 2 - 31-10\\front\\presentacion\\views\\disciplina\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\views\\disciplina\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|f:\\usuario\\desktop\\ort\\programaci\u00F3n iii\\obligatorio 2\\obligatorio 2 - 31-10\\front\\presentacion\\views\\evento\\filtroseventos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\views\\evento\\filtroseventos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|f:\\usuario\\desktop\\ort\\programaci\u00F3n iii\\obligatorio 2\\obligatorio 2 - 31-10\\front\\presentacion\\views\\disciplina\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\views\\disciplina\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|f:\\usuario\\desktop\\ort\\programaci\u00F3n iii\\obligatorio 2\\obligatorio 2 - 31-10\\front\\presentacion\\views\\disciplina\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\views\\disciplina\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|f:\\usuario\\desktop\\ort\\programaci\u00F3n iii\\obligatorio 2\\obligatorio 2 - 31-10\\front\\presentacion\\views\\disciplina\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\views\\disciplina\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|f:\\usuario\\desktop\\ort\\programaci\u00F3n iii\\obligatorio 2\\obligatorio 2 - 31-10\\front\\presentacion\\views\\disciplina\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\views\\disciplina\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|f:\\usuario\\desktop\\ort\\programaci\u00F3n iii\\obligatorio 2\\obligatorio 2 - 31-10\\front\\presentacion\\views\\evento\\geteventosxrangopuntajes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\views\\evento\\geteventosxrangopuntajes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|f:\\usuario\\desktop\\ort\\programaci\u00F3n iii\\obligatorio 2\\obligatorio 2 - 31-10\\front\\presentacion\\views\\evento\\geteventosxrangofechas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\views\\evento\\geteventosxrangofechas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{955F30BF-F8EA-482B-9259-77338529D6AC}|DTO\\DTO.csproj|f:\\usuario\\desktop\\ort\\programaci\u00F3n iii\\obligatorio 2\\obligatorio 2 - 31-10\\front\\dto\\listadoeventosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{955F30BF-F8EA-482B-9259-77338529D6AC}|DTO\\DTO.csproj|solutionrelative:dto\\listadoeventosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|f:\\usuario\\desktop\\ort\\programaci\u00F3n iii\\obligatorio 2\\obligatorio 2 - 31-10\\front\\presentacion\\views\\evento\\geteventosxiddisciplina.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\views\\evento\\geteventosxiddisciplina.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|f:\\usuario\\desktop\\ort\\programaci\u00F3n iii\\obligatorio 2\\obligatorio 2 - 31-10\\front\\presentacion\\views\\evento\\geteventosxnombre.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|f:\\usuario\\desktop\\ort\\programaci\u00F3n iii\\obligatorio 2\\obligatorio 2 - 31-10 - 2030 hs\\front\\presentacion\\views\\evento\\geteventosxnombre.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\views\\evento\\geteventosxnombre.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|f:\\usuario\\desktop\\ort\\programaci\u00F3n iii\\obligatorio 2\\obligatorio 2 - 31-10\\front\\presentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|f:\\usuario\\desktop\\ort\\programaci\u00F3n iii\\obligatorio 2\\obligatorio 2 - 31-10 - 2030 hs\\front\\presentacion\\views\\evento\\geteventosxrangofechas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\views\\evento\\geteventosxrangofechas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|f:\\usuario\\desktop\\ort\\programaci\u00F3n iii\\obligatorio 2\\obligatorio 2 - 31-10 - 2030 hs\\front\\presentacion\\controllers\\disciplinacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\controllers\\disciplinacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|f:\\usuario\\desktop\\ort\\programaci\u00F3n iii\\obligatorio 2\\obligatorio 2 - 31-10 - 2030 hs\\front\\presentacion\\controllers\\eventocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\controllers\\eventocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|f:\\usuario\\desktop\\ort\\programaci\u00F3n iii\\obligatorio 2\\obligatorio 2 - 31-10 - 2030 hs\\front\\presentacion\\views\\disciplina\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\views\\disciplina\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|f:\\usuario\\desktop\\ort\\programaci\u00F3n iii\\obligatorio 2\\obligatorio 2 - 31-10 - 2030 hs\\front\\presentacion\\views\\evento\\filtroseventos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\views\\evento\\filtroseventos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|f:\\usuario\\desktop\\ort\\programaci\u00F3n iii\\obligatorio 2\\obligatorio 2 - 31-10 - 2030 hs\\front\\presentacion\\views\\disciplina\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\views\\disciplina\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|f:\\usuario\\desktop\\ort\\programaci\u00F3n iii\\obligatorio 2\\obligatorio 2 - 31-10 - 2030 hs\\front\\presentacion\\views\\disciplina\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\views\\disciplina\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|f:\\usuario\\desktop\\ort\\programaci\u00F3n iii\\obligatorio 2\\obligatorio 2 - 31-10 - 2030 hs\\front\\presentacion\\views\\disciplina\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\views\\disciplina\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|f:\\usuario\\desktop\\ort\\programaci\u00F3n iii\\obligatorio 2\\obligatorio 2 - 31-10 - 2030 hs\\front\\presentacion\\views\\disciplina\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\views\\disciplina\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|f:\\usuario\\desktop\\ort\\programaci\u00F3n iii\\obligatorio 2\\obligatorio 2 - 31-10 - 2030 hs\\front\\presentacion\\views\\evento\\geteventosxrangopuntajes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\views\\evento\\geteventosxrangopuntajes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{955F30BF-F8EA-482B-9259-77338529D6AC}|DTO\\DTO.csproj|f:\\usuario\\desktop\\ort\\programaci\u00F3n iii\\obligatorio 2\\obligatorio 2 - 31-10 - 2030 hs\\front\\dto\\listadoeventosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{955F30BF-F8EA-482B-9259-77338529D6AC}|DTO\\DTO.csproj|solutionrelative:dto\\listadoeventosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|f:\\usuario\\desktop\\ort\\programaci\u00F3n iii\\obligatorio 2\\obligatorio 2 - 31-10 - 2030 hs\\front\\presentacion\\views\\evento\\geteventosxiddisciplina.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\views\\evento\\geteventosxiddisciplina.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|f:\\usuario\\desktop\\ort\\programaci\u00F3n iii\\obligatorio 2\\obligatorio 2 - 31-10 - 2030 hs\\front\\presentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|f:\\usuario\\desktop\\ort\\programaci\u00F3n iii\\obligatorio 2\\obligatorio 2 - 31-10\\front\\presentacion\\views\\disciplina\\atletasxdisciplina.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|f:\\usuario\\desktop\\ort\\programaci\u00F3n iii\\obligatorio 2\\obligatorio 2 - 31-10 - 2030 hs\\front\\presentacion\\views\\disciplina\\atletasxdisciplina.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\views\\disciplina\\atletasxdisciplina.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|f:\\usuario\\desktop\\ort\\programaci\u00F3n iii\\obligatorio 2\\obligatorio 2 - 31-10\\front\\presentacion\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|f:\\usuario\\desktop\\ort\\programaci\u00F3n iii\\obligatorio 2\\obligatorio 2 - 31-10 - 2030 hs\\front\\presentacion\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|f:\\usuario\\desktop\\ort\\programaci\u00F3n iii\\obligatorio 2\\obligatorio 2 - 31-10\\front\\presentacion\\controllers\\atletacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|f:\\usuario\\desktop\\ort\\programaci\u00F3n iii\\obligatorio 2\\obligatorio 2 - 31-10 - 2030 hs\\front\\presentacion\\controllers\\atletacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\controllers\\atletacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -86,7 +86,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 17,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -94,76 +94,73 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "GetDisciplinaXNombre.cshtml",
-              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Front\\Presentacion\\Views\\Disciplina\\GetDisciplinaXNombre.cshtml",
+              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10 - 2030 hs\\Front\\Presentacion\\Views\\Disciplina\\GetDisciplinaXNombre.cshtml",
               "RelativeDocumentMoniker": "Presentacion\\Views\\Disciplina\\GetDisciplinaXNombre.cshtml",
-              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Front\\Presentacion\\Views\\Disciplina\\GetDisciplinaXNombre.cshtml",
+              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10 - 2030 hs\\Front\\Presentacion\\Views\\Disciplina\\GetDisciplinaXNombre.cshtml",
               "RelativeToolTip": "Presentacion\\Views\\Disciplina\\GetDisciplinaXNombre.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAARAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-31T23:20:12.292Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Front\\Presentacion\\Views\\Disciplina\\Details.cshtml",
+              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10 - 2030 hs\\Front\\Presentacion\\Views\\Disciplina\\Details.cshtml",
               "RelativeDocumentMoniker": "Presentacion\\Views\\Disciplina\\Details.cshtml",
-              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Front\\Presentacion\\Views\\Disciplina\\Details.cshtml",
+              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10 - 2030 hs\\Front\\Presentacion\\Views\\Disciplina\\Details.cshtml",
               "RelativeToolTip": "Presentacion\\Views\\Disciplina\\Details.cshtml",
               "ViewState": "AQIAABIAAAAAAAAAAAAAACIAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-31T23:14:13.167Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T23:14:13.167Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "FiltrosDisciplinas.cshtml",
-              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Front\\Presentacion\\Views\\Disciplina\\FiltrosDisciplinas.cshtml",
+              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10 - 2030 hs\\Front\\Presentacion\\Views\\Disciplina\\FiltrosDisciplinas.cshtml",
               "RelativeDocumentMoniker": "Presentacion\\Views\\Disciplina\\FiltrosDisciplinas.cshtml",
-              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Front\\Presentacion\\Views\\Disciplina\\FiltrosDisciplinas.cshtml",
+              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10 - 2030 hs\\Front\\Presentacion\\Views\\Disciplina\\FiltrosDisciplinas.cshtml",
               "RelativeToolTip": "Presentacion\\Views\\Disciplina\\FiltrosDisciplinas.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAKAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-31T23:08:48.49Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "GetEventosXRangoPuntajes.cshtml",
-              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Front\\Presentacion\\Views\\Evento\\GetEventosXRangoPuntajes.cshtml",
+              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10 - 2030 hs\\Front\\Presentacion\\Views\\Evento\\GetEventosXRangoPuntajes.cshtml",
               "RelativeDocumentMoniker": "Presentacion\\Views\\Evento\\GetEventosXRangoPuntajes.cshtml",
-              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Front\\Presentacion\\Views\\Evento\\GetEventosXRangoPuntajes.cshtml",
+              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10 - 2030 hs\\Front\\Presentacion\\Views\\Evento\\GetEventosXRangoPuntajes.cshtml",
               "RelativeToolTip": "Presentacion\\Views\\Evento\\GetEventosXRangoPuntajes.cshtml",
               "ViewState": "AQIAACIAAAAAAAAAAAAmwDcAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-31T22:34:49.953Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T22:34:49.953Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "ListadoEventosDTO.cs",
-              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Front\\DTO\\ListadoEventosDTO.cs",
+              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10 - 2030 hs\\Front\\DTO\\ListadoEventosDTO.cs",
               "RelativeDocumentMoniker": "DTO\\ListadoEventosDTO.cs",
-              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Front\\DTO\\ListadoEventosDTO.cs",
+              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10 - 2030 hs\\Front\\DTO\\ListadoEventosDTO.cs",
               "RelativeToolTip": "DTO\\ListadoEventosDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T22:29:26.903Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T22:29:26.903Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 3,
               "Title": "GetEventosXRangoFechas.cshtml",
-              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Front\\Presentacion\\Views\\Evento\\GetEventosXRangoFechas.cshtml",
+              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10 - 2030 hs\\Front\\Presentacion\\Views\\Evento\\GetEventosXRangoFechas.cshtml",
               "RelativeDocumentMoniker": "Presentacion\\Views\\Evento\\GetEventosXRangoFechas.cshtml",
-              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Front\\Presentacion\\Views\\Evento\\GetEventosXRangoFechas.cshtml",
+              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10 - 2030 hs\\Front\\Presentacion\\Views\\Evento\\GetEventosXRangoFechas.cshtml",
               "RelativeToolTip": "Presentacion\\Views\\Evento\\GetEventosXRangoFechas.cshtml",
               "ViewState": "AQIAABYAAAAAAAAAAAAmwCoAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -172,11 +169,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 2,
               "Title": "GetEventosXNombre.cshtml",
-              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Front\\Presentacion\\Views\\Evento\\GetEventosXNombre.cshtml",
+              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10 - 2030 hs\\Front\\Presentacion\\Views\\Evento\\GetEventosXNombre.cshtml",
               "RelativeDocumentMoniker": "Presentacion\\Views\\Evento\\GetEventosXNombre.cshtml",
-              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Front\\Presentacion\\Views\\Evento\\GetEventosXNombre.cshtml",
+              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10 - 2030 hs\\Front\\Presentacion\\Views\\Evento\\GetEventosXNombre.cshtml",
               "RelativeToolTip": "Presentacion\\Views\\Evento\\GetEventosXNombre.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -185,63 +182,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "GetEventosXIdDisciplina.cshtml",
-              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Front\\Presentacion\\Views\\Evento\\GetEventosXIdDisciplina.cshtml",
+              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10 - 2030 hs\\Front\\Presentacion\\Views\\Evento\\GetEventosXIdDisciplina.cshtml",
               "RelativeDocumentMoniker": "Presentacion\\Views\\Evento\\GetEventosXIdDisciplina.cshtml",
-              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Front\\Presentacion\\Views\\Evento\\GetEventosXIdDisciplina.cshtml",
+              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10 - 2030 hs\\Front\\Presentacion\\Views\\Evento\\GetEventosXIdDisciplina.cshtml",
               "RelativeToolTip": "Presentacion\\Views\\Evento\\GetEventosXIdDisciplina.cshtml",
               "ViewState": "AQIAABAAAAAAAAAAAAAcwDMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-31T21:41:14.733Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T21:41:14.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FiltrosEventos.cshtml",
+              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10 - 2030 hs\\Front\\Presentacion\\Views\\Evento\\FiltrosEventos.cshtml",
+              "RelativeDocumentMoniker": "Presentacion\\Views\\Evento\\FiltrosEventos.cshtml",
+              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10 - 2030 hs\\Front\\Presentacion\\Views\\Evento\\FiltrosEventos.cshtml",
+              "RelativeToolTip": "Presentacion\\Views\\Evento\\FiltrosEventos.cshtml",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAiwF4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T21:34:06.752Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "FiltrosEventos.cshtml",
-              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Front\\Presentacion\\Views\\Evento\\FiltrosEventos.cshtml",
-              "RelativeDocumentMoniker": "Presentacion\\Views\\Evento\\FiltrosEventos.cshtml",
-              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Front\\Presentacion\\Views\\Evento\\FiltrosEventos.cshtml",
-              "RelativeToolTip": "Presentacion\\Views\\Evento\\FiltrosEventos.cshtml",
-              "ViewState": "AQIAAEQAAAAAAAAAAAAiwF4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-31T21:34:06.752Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "EventoController.cs",
-              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Front\\Presentacion\\Controllers\\EventoController.cs",
+              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10 - 2030 hs\\Front\\Presentacion\\Controllers\\EventoController.cs",
               "RelativeDocumentMoniker": "Presentacion\\Controllers\\EventoController.cs",
-              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Front\\Presentacion\\Controllers\\EventoController.cs",
+              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10 - 2030 hs\\Front\\Presentacion\\Controllers\\EventoController.cs",
               "RelativeToolTip": "Presentacion\\Controllers\\EventoController.cs",
               "ViewState": "AQIAAG4AAAAAAAAAAAAqwIIAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T21:17:47.198Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T21:17:47.198Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Front\\Presentacion\\Views\\Disciplina\\Delete.cshtml",
+              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10 - 2030 hs\\Front\\Presentacion\\Views\\Disciplina\\Delete.cshtml",
               "RelativeDocumentMoniker": "Presentacion\\Views\\Disciplina\\Delete.cshtml",
-              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Front\\Presentacion\\Views\\Disciplina\\Delete.cshtml",
+              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10 - 2030 hs\\Front\\Presentacion\\Views\\Disciplina\\Delete.cshtml",
               "RelativeToolTip": "Presentacion\\Views\\Disciplina\\Delete.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-30T21:30:43.588Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-30T21:30:43.588Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Front\\Presentacion\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10 - 2030 hs\\Front\\Presentacion\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Presentacion\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Front\\Presentacion\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10 - 2030 hs\\Front\\Presentacion\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Presentacion\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -249,37 +242,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Front\\Presentacion\\Views\\Disciplina\\Edit.cshtml",
+              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10 - 2030 hs\\Front\\Presentacion\\Views\\Disciplina\\Edit.cshtml",
               "RelativeDocumentMoniker": "Presentacion\\Views\\Disciplina\\Edit.cshtml",
-              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Front\\Presentacion\\Views\\Disciplina\\Edit.cshtml",
+              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10 - 2030 hs\\Front\\Presentacion\\Views\\Disciplina\\Edit.cshtml",
               "RelativeToolTip": "Presentacion\\Views\\Disciplina\\Edit.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-30T20:42:02.363Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-30T20:42:02.363Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Front\\Presentacion\\Views\\Disciplina\\Create.cshtml",
+              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10 - 2030 hs\\Front\\Presentacion\\Views\\Disciplina\\Create.cshtml",
               "RelativeDocumentMoniker": "Presentacion\\Views\\Disciplina\\Create.cshtml",
-              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Front\\Presentacion\\Views\\Disciplina\\Create.cshtml",
+              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10 - 2030 hs\\Front\\Presentacion\\Views\\Disciplina\\Create.cshtml",
               "RelativeToolTip": "Presentacion\\Views\\Disciplina\\Create.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-30T20:15:42.78Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-30T20:15:42.78Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "AtletasXDisciplina.cshtml",
-              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Front\\Presentacion\\Views\\Disciplina\\AtletasXDisciplina.cshtml",
+              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10 - 2030 hs\\Front\\Presentacion\\Views\\Disciplina\\AtletasXDisciplina.cshtml",
               "RelativeDocumentMoniker": "Presentacion\\Views\\Disciplina\\AtletasXDisciplina.cshtml",
-              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Front\\Presentacion\\Views\\Disciplina\\AtletasXDisciplina.cshtml",
+              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10 - 2030 hs\\Front\\Presentacion\\Views\\Disciplina\\AtletasXDisciplina.cshtml",
               "RelativeToolTip": "Presentacion\\Views\\Disciplina\\AtletasXDisciplina.cshtml",
               "ViewState": "AQIAAA8AAAAAAAAAAAAAACUAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -287,26 +278,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Front\\Presentacion\\Views\\Disciplina\\Index.cshtml",
+              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10 - 2030 hs\\Front\\Presentacion\\Views\\Disciplina\\Index.cshtml",
               "RelativeDocumentMoniker": "Presentacion\\Views\\Disciplina\\Index.cshtml",
-              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Front\\Presentacion\\Views\\Disciplina\\Index.cshtml",
+              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10 - 2030 hs\\Front\\Presentacion\\Views\\Disciplina\\Index.cshtml",
               "RelativeToolTip": "Presentacion\\Views\\Disciplina\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-29T23:11:23.245Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-29T23:11:23.245Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "DisciplinaController.cs",
-              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Front\\Presentacion\\Controllers\\DisciplinaController.cs",
+              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10 - 2030 hs\\Front\\Presentacion\\Controllers\\DisciplinaController.cs",
               "RelativeDocumentMoniker": "Presentacion\\Controllers\\DisciplinaController.cs",
-              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Front\\Presentacion\\Controllers\\DisciplinaController.cs",
+              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10 - 2030 hs\\Front\\Presentacion\\Controllers\\DisciplinaController.cs",
               "RelativeToolTip": "Presentacion\\Controllers\\DisciplinaController.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAowBEAAAAzAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-29T23:04:35.024Z",
               "EditorCaption": ""
@@ -315,9 +305,9 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "Program.cs",
-              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Front\\Presentacion\\Program.cs",
+              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10 - 2030 hs\\Front\\Presentacion\\Program.cs",
               "RelativeDocumentMoniker": "Presentacion\\Program.cs",
-              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Front\\Presentacion\\Program.cs",
+              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10 - 2030 hs\\Front\\Presentacion\\Program.cs",
               "RelativeToolTip": "Presentacion\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -327,9 +317,9 @@
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "AtletaController.cs",
-              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Front\\Presentacion\\Controllers\\AtletaController.cs",
+              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10 - 2030 hs\\Front\\Presentacion\\Controllers\\AtletaController.cs",
               "RelativeDocumentMoniker": "Presentacion\\Controllers\\AtletaController.cs",
-              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10\\Front\\Presentacion\\Controllers\\AtletaController.cs",
+              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\Obligatorio 2\\Obligatorio 2 - 31-10 - 2030 hs\\Front\\Presentacion\\Controllers\\AtletaController.cs",
               "RelativeToolTip": "Presentacion\\Controllers\\AtletaController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
